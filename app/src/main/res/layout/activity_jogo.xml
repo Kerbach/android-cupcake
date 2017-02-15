@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:padding="@dimen/default_padding">
+
+    <TextView
+        android:id="@+id/textViewNivel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="@dimen/text_view_margin"
+        android:text="@string/nivel" />
+
+    <TextView
+        android:id="@+id/textViewNumeroNivel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/textViewNivel" />
+
+
+    <TextView
+        android:id="@+id/textViewMovimentos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="@dimen/text_view_margin"
+        android:layout_toStartOf="@+id/textViewNumeroMovimentos"
+        android:text="@string/movimentos" />
+
+    <TextView
+        android:id="@+id/textViewNumeroMovimentos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:minWidth="@dimen/min_width" />
+
+
+    <RelativeLayout
+        android:id="@+id/area"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textViewNivel"
+        android:gravity="center" />
+
+</RelativeLayout>

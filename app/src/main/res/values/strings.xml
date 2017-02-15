@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="nivel_invalido">Nível inválido!</string>
+    <string name="nivel">Nível:</string>
+    <string name="movimentos">Movimentos:</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="parabens">Parabéns! Nível concluído!</string>
+    <string name="falha">Você falhou! Tente novamente!</string>
+</resources>
