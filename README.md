@@ -11,7 +11,7 @@
 </p>
 <p>Pré-visualização:</p>
 <p>
-<img src="http://jdenner.com/resources/android-cupcake1.png" alt="Pré-visualização do aplicativo">
-<img src="http://jdenner.com/resources/android-cupcake2.png" alt="Pré-visualização do aplicativo">
-<img src="http://jdenner.com/resources/android-cupcake3.png" alt="Pré-visualização do aplicativo">
+<img src="http://jdenner.com/github/android-cupcake1.png" alt="Pré-visualização do aplicativo">
+<img src="http://jdenner.com/github/android-cupcake2.png" alt="Pré-visualização do aplicativo">
+<img src="http://jdenner.com/github/android-cupcake3.png" alt="Pré-visualização do aplicativo">
 </p>
